@@ -7,7 +7,7 @@ import java.io.IOException;
 
 public class main {
     public static void main(String[] args) {
-        // Erstellt ein neues JFrame mit dem Titel "HELLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO"
+        // Erstellt ein neues JFrame mit einem Titel
         JFrame frame = new JFrame("HELLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO");
         // Setzt die Operation, die ausgeführt wird, wenn der Benutzer das Fenster schließt
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
