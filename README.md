@@ -1,4 +1,4 @@
-# Java GUI Word File Opener
+# Java GUI 
 
 Dieses Projekt enthält eine einfache Java GUI-Anwendung, die es ermöglicht, Text in ein Textfeld einzugeben und diesen Text in eine Textdatei zu schreiben.
 
